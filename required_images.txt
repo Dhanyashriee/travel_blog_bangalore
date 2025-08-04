@@ -1,0 +1,129 @@
+Required Images for Travel Blog
+
+Main Page (in images/ directory):
+1. bangalore-aerial.jpg 
+   - Aerial view of Bangalore city
+   - Size: 1920x1080px
+   - Used as header background
+
+2. ub-city-night.jpg
+   - UB City at night with lights
+   - Size: 1920x800px
+   - Used in banner section
+
+3. lalbagh.jpg
+   - Lalbagh Glass House with flowers
+   - Size: 800x600px
+   - Used in gallery and content section
+
+4. cubbon.jpg
+   - Green pathways of Cubbon Park
+   - Size: 800x600px
+   - Used in gallery and content section
+
+5. bangalorepalace.jpg
+   - Front view of Bangalore Palace
+   - Size: 800x600px
+   - Used in gallery
+
+6. iskon.jpg
+   - ISKCON temple during sunset
+   - Size: 800x600px
+   - Used in gallery and content section
+
+7. vidhana-soudha.jpg
+   - Night view with illumination
+   - Size: 800x600px
+   - Used in gallery and content section
+
+8. ulsoor-lake.jpg
+   - Sunrise at Ulsoor Lake with boats
+   - Size: 800x600px
+   - Used in gallery
+
+9. nandihills.jpg
+   - Sunrise view from Nandi Hills
+   - Size: 800x600px
+   - Used in content section
+
+10. bannerghatta.jpg
+    - Tigers or elephants in safari
+    - Size: 800x600px
+    - Used in content section
+
+11. bangalore-food.jpg
+    - Spread of South Indian dishes
+    - Size: 800x600px
+    - Used in food section
+
+Food Page (in images/food/ directory):
+1. header-bg.jpg
+   - Colorful Indian food spread
+   - Size: 1920x1080px
+   - Used as food page header
+
+2. dosa.jpg
+   - Crispy masala dosa
+   - Size: 600x400px
+   - Used in food categories
+
+3. biryani.jpg
+   - Bangalore-style biryani
+   - Size: 600x400px
+   - Used in food categories
+street-food.jpg
+   - VV Puram 
+4. street food scene
+   - Size: 600x400px
+   - Used in food categories
+
+5. cafe.jpg
+   - Modern café interior
+   - Size: 600x400px
+   - Used in food categories
+
+6. mtr.jpg
+   - MTR restaurant and dishes
+   - Size: 800x600px
+   - Used in restaurants section
+
+7. vidyarthi.jpg
+   - Vidyarthi Bhavan dosa serving
+   - Size: 800x600px
+   - Used in restaurants section
+
+8. ctara.jpg
+   - CTR restaurant front view
+   - Size: 800x600px
+   - Used in restaurants section
+
+9. vv-puram.jpg
+   - Night view of food street
+   - Size: 800x600px
+   - Used in street food section
+
+10. johnson-market.jpg
+    - Johnson Market food stalls
+    - Size: 800x600px
+    - Used in street food section
+
+11. third-wave.jpg
+    - Third Wave Coffee interior
+    - Size: 800x600px
+    - Used in cafe section
+
+Image Guidelines:
+- All images should be optimized for web (compressed without losing quality)
+- Use JPG format for photographs
+- Resolution: 72 DPI
+- Color space: sRGB
+- Maximum file size: 500KB per image
+- Include proper alt text for accessibility
+
+Recommended sources for images:
+1. Official Bangalore Tourism website
+2. Licensed stock photo websites
+3. Personal photographs with permission
+4. Creative Commons licensed images
+
+Note: Ensure you have the rights to use all images and credit photographers where required.
